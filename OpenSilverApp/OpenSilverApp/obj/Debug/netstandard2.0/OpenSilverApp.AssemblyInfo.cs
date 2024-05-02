@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenSilverApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fatal: not a git repository (or any of the parent directories): .git")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543b37b0-dirty")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenSilverApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenSilverApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

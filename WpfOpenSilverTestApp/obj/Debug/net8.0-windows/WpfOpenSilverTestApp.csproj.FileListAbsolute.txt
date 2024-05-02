@@ -1,0 +1,5 @@
+C:\Users\stef_\Desktop\Odisee graduaat programmeren\portfolio\OpenSilver\OpenSilverApp\WpfOpenSilverTestApp\obj\Debug\net8.0-windows\WpfOpenSilverTestApp.csproj.AssemblyReference.cache
+C:\Users\stef_\Desktop\Odisee graduaat programmeren\portfolio\OpenSilver\OpenSilverApp\WpfOpenSilverTestApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\stef_\Desktop\Odisee graduaat programmeren\portfolio\OpenSilver\OpenSilverApp\WpfOpenSilverTestApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\stef_\Desktop\Odisee graduaat programmeren\portfolio\OpenSilver\OpenSilverApp\WpfOpenSilverTestApp\obj\Debug\net8.0-windows\WpfOpenSilverTestApp_MarkupCompile.cache
+C:\Users\stef_\Desktop\Odisee graduaat programmeren\portfolio\OpenSilver\OpenSilverApp\WpfOpenSilverTestApp\obj\Debug\net8.0-windows\WpfOpenSilverTestApp_MarkupCompile.lref

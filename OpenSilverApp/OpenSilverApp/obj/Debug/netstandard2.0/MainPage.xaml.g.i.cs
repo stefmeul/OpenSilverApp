@@ -1,4 +1,4 @@
-// <OpenSilver><XamlHash>0E97B239C917EBC3410E008114322398</XamlHash><CompilationDate>05/01/2024 23:49:51</CompilationDate></OpenSilver>
+// <OpenSilver><XamlHash>C1288DBB1DF6DD3AC51165BEB2D2CF64</XamlHash><CompilationDate>05/02/2024 22:49:42</CompilationDate></OpenSilver>
 
 
 
@@ -40,11 +40,11 @@ public sealed class ǀǀOpensilverappǀǀComponentǀǀMainpageǀǀXamlǀǀFactor
         LoadComponentImpl((global::OpenSilverApp.MainPage)component);
     }
 
-    private static void LoadComponentImpl(global::OpenSilverApp.MainPage page_a07eece8b1fe49c6854a1e754defc23a)
+    private static void LoadComponentImpl(global::OpenSilverApp.MainPage page_f03472b598dc48a480a7a0e536b8f6d3)
     {
-        if ((object)page_a07eece8b1fe49c6854a1e754defc23a is global::System.Windows.UIElement)
+        if ((object)page_f03472b598dc48a480a7a0e536b8f6d3 is global::System.Windows.UIElement)
         {
-            ((global::System.Windows.UIElement)(object)page_a07eece8b1fe49c6854a1e754defc23a).XamlSourcePath = @"OpenSilverApp\MainPage.xaml";
+            ((global::System.Windows.UIElement)(object)page_f03472b598dc48a480a7a0e536b8f6d3).XamlSourcePath = @"OpenSilverApp\MainPage.xaml";
         }
 
         throw new global::System.NotImplementedException();

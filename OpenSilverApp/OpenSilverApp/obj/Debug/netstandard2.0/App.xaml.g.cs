@@ -1,4 +1,4 @@
-// <OpenSilver><XamlHash>5DC0566555C82A2D900F67C0138541A7</XamlHash><CompilationDate>05/01/2024 23:49:51</CompilationDate></OpenSilver>
+// <OpenSilver><XamlHash>5DC0566555C82A2D900F67C0138541A7</XamlHash><CompilationDate>05/02/2024 22:49:43</CompilationDate></OpenSilver>
 
 
 
@@ -40,19 +40,19 @@ public sealed class ǀǀOpensilverappǀǀComponentǀǀAppǀǀXamlǀǀFactory : g
         LoadComponentImpl((global::OpenSilverApp.App)component);
     }
 
-    private static void LoadComponentImpl(global::OpenSilverApp.App application_b11c0cd8edd94abdb2779ddd15c57997)
+    private static void LoadComponentImpl(global::OpenSilverApp.App application_a8ee979127a24a7ca67eace6c063fc41)
     {
-        if ((object)application_b11c0cd8edd94abdb2779ddd15c57997 is global::System.Windows.UIElement)
+        if ((object)application_a8ee979127a24a7ca67eace6c063fc41 is global::System.Windows.UIElement)
         {
-            ((global::System.Windows.UIElement)(object)application_b11c0cd8edd94abdb2779ddd15c57997).XamlSourcePath = @"OpenSilverApp\App.xaml";
+            ((global::System.Windows.UIElement)(object)application_a8ee979127a24a7ca67eace6c063fc41).XamlSourcePath = @"OpenSilverApp\App.xaml";
         }
 
-        var xamlContext_f59766533fa14da3be8bce522285d6dd = global::OpenSilver.Internal.Xaml.RuntimeHelpers.Create_XamlContext();
-_ = global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteStartObject(xamlContext_f59766533fa14da3be8bce522285d6dd, application_b11c0cd8edd94abdb2779ddd15c57997);
-var resourceDictionary_a4dfb040e64a47508a6596b44220c6ff = New_resourceDictionary_a4dfb040e64a47508a6596b44220c6ff(xamlContext_f59766533fa14da3be8bce522285d6dd);
-global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteEndObject(xamlContext_f59766533fa14da3be8bce522285d6dd);
-application_b11c0cd8edd94abdb2779ddd15c57997.Resources = resourceDictionary_a4dfb040e64a47508a6596b44220c6ff;
-global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteEndObject(xamlContext_f59766533fa14da3be8bce522285d6dd);
+        var xamlContext_6bc59395fe364e048f1e671081b96c79 = global::OpenSilver.Internal.Xaml.RuntimeHelpers.Create_XamlContext();
+_ = global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteStartObject(xamlContext_6bc59395fe364e048f1e671081b96c79, application_a8ee979127a24a7ca67eace6c063fc41);
+var resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548 = New_resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548(xamlContext_6bc59395fe364e048f1e671081b96c79);
+global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteEndObject(xamlContext_6bc59395fe364e048f1e671081b96c79);
+application_a8ee979127a24a7ca67eace6c063fc41.Resources = resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548;
+global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteEndObject(xamlContext_6bc59395fe364e048f1e671081b96c79);
 
     }
 
@@ -61,10 +61,10 @@ global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteEndObject(xamlC
         return (global::OpenSilverApp.App)global::CSHTML5.Internal.TypeInstantiationHelper.Instantiate(typeof(global::OpenSilverApp.App));
     }
 
-    private static global::System.Windows.ResourceDictionary New_resourceDictionary_a4dfb040e64a47508a6596b44220c6ff(global::OpenSilver.Internal.Xaml.Context.XamlContext xamlContext_2e667e71b0744ef1930b16af2a2f5712)
+    private static global::System.Windows.ResourceDictionary New_resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548(global::OpenSilver.Internal.Xaml.Context.XamlContext xamlContext_a8092d2f10ce4525a8a46df424a507bf)
 {
-var resourceDictionary_a4dfb040e64a47508a6596b44220c6ff = global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteStartObject(xamlContext_2e667e71b0744ef1930b16af2a2f5712, new global::System.Windows.ResourceDictionary());
-return resourceDictionary_a4dfb040e64a47508a6596b44220c6ff;
+var resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548 = global::OpenSilver.Internal.Xaml.RuntimeHelpers.XamlContext_WriteStartObject(xamlContext_a8092d2f10ce4525a8a46df424a507bf, new global::System.Windows.ResourceDictionary());
+return resourceDictionary_d1a26e97361b45cda6b351d7b3c8c548;
 }
 
 }

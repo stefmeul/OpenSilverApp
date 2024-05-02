@@ -1,4 +1,4 @@
-// <OpenSilver><XamlHash>5DC0566555C82A2D900F67C0138541A7</XamlHash><CompilationDate>05/01/2024 23:49:51</CompilationDate></OpenSilver>
+// <OpenSilver><XamlHash>5DC0566555C82A2D900F67C0138541A7</XamlHash><CompilationDate>05/02/2024 22:49:42</CompilationDate></OpenSilver>
 
 
 
@@ -40,11 +40,11 @@ public sealed class ǀǀOpensilverappǀǀComponentǀǀAppǀǀXamlǀǀFactory : g
         LoadComponentImpl((global::OpenSilverApp.App)component);
     }
 
-    private static void LoadComponentImpl(global::OpenSilverApp.App application_2e747d06a5c645db933ace8102c37a4b)
+    private static void LoadComponentImpl(global::OpenSilverApp.App application_f998186411e4432487e3dab8c7317357)
     {
-        if ((object)application_2e747d06a5c645db933ace8102c37a4b is global::System.Windows.UIElement)
+        if ((object)application_f998186411e4432487e3dab8c7317357 is global::System.Windows.UIElement)
         {
-            ((global::System.Windows.UIElement)(object)application_2e747d06a5c645db933ace8102c37a4b).XamlSourcePath = @"OpenSilverApp\App.xaml";
+            ((global::System.Windows.UIElement)(object)application_f998186411e4432487e3dab8c7317357).XamlSourcePath = @"OpenSilverApp\App.xaml";
         }
 
         throw new global::System.NotImplementedException();

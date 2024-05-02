@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\loading-indicator.css"
     },
     {
+      "Id": "C:\\Users\\stef_\\Desktop\\Odisee graduaat programmeren\\portfolio\\OpenSilver\\OpenSilverApp\\OpenSilverApp\\OpenSilverApp.Browser\\wwwroot\\resources\\opensilverapp\\app.config",
+      "PackagePath": "staticwebassets\\resources\\opensilverapp\\app.config"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OpenSilverApp.Browser.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

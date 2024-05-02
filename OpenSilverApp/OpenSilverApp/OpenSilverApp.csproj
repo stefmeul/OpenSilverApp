@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.4.0" />
     <PackageReference Include="OpenSilver" Version="2.2.0" />
   </ItemGroup>
 
@@ -22,6 +23,14 @@
   <ItemGroup>
     <Compile Include="App.xaml.cs" />
     <Compile Include="MainPage.xaml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\OpenSilverClassLibrary\OpenSilverClassLibrary.csproj" />
   </ItemGroup>
 
 </Project>
